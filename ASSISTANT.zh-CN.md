@@ -3,7 +3,7 @@
 成分表 · 浓度 · 怎么用。行业竖屏口播预上线 Demo，欢迎提出建议。
 
 模板与完整下载: https://motiongit.com/@adunext/industry-beauty-ingredient-label
-版本: 1.0.4
+版本: 1.0.5
 Demo 已公开，下载开放状态以官网为准。
 
 ## 技术资料
