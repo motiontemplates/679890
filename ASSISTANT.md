@@ -3,7 +3,7 @@
 Ingredients · Concentration · Use. Prelaunch portrait talking-head demo. Feedback welcome.
 
 Template & full download: https://motiongit.com/@adunext/industry-beauty-ingredient-label
-Version: 1.0.3
+Version: 1.0.4
 Demo available. Check the official page for current download availability.
 
 ## Technical reference
